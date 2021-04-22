@@ -30,6 +30,6 @@
         +7.Thay đổi URL cơ sở chế độ xem cửa hàng mặc định
         => Các bạn hoàn toàn có thể xem trong video của traning.
 ## V.B2B Capabilitiles
-- Mình sẽ có file riêng về phần này.
+- Mình sẽ có file riêng về phần này(New To Magento/B2B_Basic.md).
 ## VI.Industry Compliance
 - Magento cung cấp một loạt các khả năng bảo mật và quyền riêng tư đáp ứng các yêu cầu pháp lý và nguyên tắc ngành cho người bán trực tuyến. Một số do ngành thẻ thanh toán bắt buộc và một số khác do luật pháp yêu cầu, tùy thuộc vào vị trí của bạn.

@@ -38,19 +38,19 @@
 ### 3.Web
 - Chứa các cài đặt 
 	+ Url Option : 
-		+ Add Store to Urls:  ??
-		+ Auto-redirect to Base URL: Đây cho phép chuyển đến trang cơ sở nếu có 1 link bị hỏng
+		+ Add Store to Urls:  ?? 
+		+ Auto-redirect to Base URL: Đây cho phép chuyển đến trang cơ sở nếu có 1 link bị hỏng?
 	+ Search Engine Optimization : 
 		+ Use Web Server Rewiriter : ???
 	+ Base URLs : 
-		+ Base URL : Địa chỉ trang web cơ sở.
-		+ Base Link URL : Trình giữ chỗ chỗ cho URL cơ sở.
+		+ Base URL : Địa chỉ trang web cơ sở.(Làm multi website)
+		+ Base Link URL : Trình giữ chỗ chỗ cho URL cơ sở.(Làm multi website)
 		+ Base URL for Static View Files :???
 		+ Base URL for User Media Files: ???
 h.
 	+ Base URLs(Secure) :
-		+ Secure Base URL: Địa chỉ gốc website nhưng được bảo mật bằng cách mã hóa SSL/TLS. URL phải kết túc bằng gạch chéo.
-		+ Secure Base Link URL: Được sử dụng làm trình giữ chỗ cho URL cơ sở chạy qua kênh bảo mật. 
+		+ Secure Base URL: Địa chỉ gốc website nhưng được bảo mật bằng cách mã hóa SSL/TLS. URL phải kết túc bằng gạch chéo.(Làm multi website)
+		+ Secure Base Link URL: Được sử dụng làm trình giữ chỗ cho URL cơ sở chạy qua kênh bảo mật. (Làm multi website)
 		+ Secure Base URL for Static View Files : ???
 		+ Secure Base URL for Media Files : ???
 		+ Use Secure URLs on Storefront:Nếu miền của bạn có chứng chỉ bảo mật, bạn có thể chọn chạy mặt tiền cửa hàng, có hoặc không có mã hóa SSL. Tùy chọn:Có - URL lưu trữ bắt đầu bằng httpsđể cho biết rằng trang được phân phối bằng giao thức được mã hóa và bảo mật.Không - URL cửa hàng bắt đầu bằng httpđể chỉ ra rằng trang được phân phối mà không có giao thức bảo mật.

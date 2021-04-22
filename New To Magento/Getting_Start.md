@@ -25,7 +25,7 @@
    - Duy trì khách hàng : Tạo và quản lý các bản tin và chương trình khuyến mãi để thu hút khách hàng của bạn quay lại xem thêm.
    - Tạo sự ủng hỗ : Khuyến khích khách hàng viết đánh giá sản phẩm, tạo danh sách mong muốn và gửi email về sản phẩm cho bạn bè của họ. Tăng cường mối quan hệ của bạn với khách hàng, những người đổi lại sẽ nói tích cực về doanh nghiệp của bạn với bạn bè và gia đình.
 ### 3.Câu hình cơ bản
-   - Ở phần này mình sẽ có 1 file riêng về điều này.
+   - Ở phần này mình sẽ có 1 file riêng về điều này(Basic_Congiguration).
 ### 4.Tiện ích mở rộng Magento 
    - Cung cấp thông tin và hướng dẫn cài đặt cài đặt tiện ích Magento 
 #### a.Quản lý tồn kho
