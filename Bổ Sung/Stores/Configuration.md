@@ -11,7 +11,7 @@
     + Default Country : Quốc gia mặc định.Khi khách hàng đang ở trang shipping và sẽ được chọn quốc gia thì mặc định thẻ select đã chọn sẽ quốc gia mà bạn chọn mặc định.
     + Alllow Countries : Các quốc giá khác bạn chấp nhận đơn đặt hàng.->Khi khách hàng ở trang Shiping thì sẽ được chọn các đất nước do bạn quy định ở trường.
     + Zip/Postal Code is Optional for	:  nơi bạn tiến hành hoạt động kinh doanh không yêu cầu bao gồm mã ZIP hoặc mã bưu chính như một phần của địa chỉ đường phố.->Những nước mà bạn chọn thì khi khách hàng chọn những nước đó thì tự dộng mục Zip code của khách hàng không bặt buộc phải điền.
-    + European Union Countries : quốc gia trong Liên minh Châu Âu nơi bạn tiến hành hoạt động kinh doanh.Bởi vì các quốc gia EU này có các quy tắc thuế khác nhau, tức là VAT. ???
+    + European Union Countries : quốc gia trong Liên minh Châu Âu nơi bạn tiến hành hoạt động kinh doanh.Bởi vì các quốc gia EU này có các quy tắc thuế khác nhau, tức là VAT.
     + Top destinations	: Các quốc gia chính mà bạn nhắm mục tiêu để bán hàng.Cho phép các quốc gia bạn cho sẽ được đưa lên đầu các quốc gia mà khách hàng chọn.
 #### b.State Options :
 - Lựa chọn trạng thái.
@@ -67,9 +67,9 @@
     + CMS No Cookie Page :Xác định một trang CMS cụ thể xuất hiện khi cookie không được bật cho trình duyệt. Trang này giải thích lý do tại sao sử dụng cookie và cách bật chúng cho từng trình duyệt. Trang mặc định là Bật Cookie. => Tức là bật thông báo cho phép sử dụng cookie từ phía người dùng áp dụng vào trang nào hoặc có thể không.
     + Show Breadcrumbs for CMS Pages : Xác định xem đường dẫn breadcrumb có xuất hiện trên tất cả các trang CMS trong danh mục hay không. Tùy chọn: Có / Không. Breadcrumbs chính là các đường dẫn giúp cho người dùng xác định xem vị trí ở trang web ví dụ : Home > Category > Product A.k
 #### f.Default Layouts
-    + Default Product Layout :??
-    + Default Category Layout :??
-    + Default Page Layout:??
+    + Default Product Layout : Layout mặc định của sản phẩm
+    + Default Category Layout : Layout mặc định của sản phẩm
+    + Default Page Layout: Layout mặc định của sản phẩm
 #### g.Default Cookie Settings
     + Cookie Lifetime : Thời gian sống của cookie.=>Nếu khách hàng mà đóng tab đi mà không quay lại trong thời gian cookie quy định thì dữ liệu khách hàng sẽ mất ví dụ là các sản phẩm trong giỏ hàng.
     + Cookie Path : Đường dẫn cookie
@@ -292,7 +292,8 @@
     - Tính toán khoảng cách bằng Google map hay mã bưu điện.
 #### e.Google Distance Provider
     - nhập mã API để được sử dụng Google map
-### 3.XML Sitemap  ?
+### 3.XML Sitemap  
+    => Các bạn hiểu thê này cái Site Map nó giống như 1 các sơ đồ sẽ show hết tất cả các trang trong cửa hàng và có phân thứ tự cha con. Các mục dưới đây sẽ chỉ là phần setting của nó thôi.
 #### a.Categories Options 
 #### b.Product Options  
 #### c.CMS Pages Options
@@ -728,7 +729,7 @@ Vui lòng cung cấp url giỏ hàng. Nếu không có url nào được cung c�
 #### j.Customer Preference
     + Show Preferences to Customer : Bật sự hài lòng của khách hàng
     + Show Addressbooks to Customer	: Hiện thị địa chỉ khách hàng
-    + Show Data Fields To Customer?	 : Cho phép hiển thị các trường dữ liệu cho khác hàng
+    + Show Data Fields To Customer	 : Cho phép hiển thị các trường dữ liệu cho khác hàng
     + Data Fields To Show	: Hiển thị trường dữ liệu 
 ### 11.Developer 
 #### a.Import Setting
